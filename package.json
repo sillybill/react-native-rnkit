@@ -1,0 +1,30 @@
+{
+  "name": "react-native-rnkit",
+  "version": "0.0.1",
+  "description": "React Native UI kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjyas/rnkit.git"
+  },
+  "keywords": [
+    "React-Native",
+    "UIKit",
+    "Components"
+  ],
+  "author": "kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjyas/rnkit/issues"
+  },
+  "homepage": "https://github.com/bjyas/rnkit#readme",
+  "dependencies": {
+    "tcomb-react-native": "^0.3.3"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.13.2"
+  }
+}
