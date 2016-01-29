@@ -25,6 +25,7 @@
     "tcomb-react-native": "^0.3.3"
   },
   "peerDependencies": {
-    "react-native": ">=0.13.2"
+    "react-native": ">=0.13.2",
+    "react-native-root-modal": "^1.0.2"
   }
 }
