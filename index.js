@@ -3,8 +3,10 @@
  */
 import PhotoCarousel from './lib/photo-carousel'
 import form from './lib/form'
+import PopupDatePicker from './lib/PopupDatePicker'
 
 module.exports = {
   PhotoCarousel,
-  form
+  form,
+  PopupDatePicker
 };
