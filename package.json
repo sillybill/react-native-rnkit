@@ -22,9 +22,9 @@
   },
   "homepage": "https://github.com/bjyas/rnkit#readme",
   "dependencies": {
-    "tcomb-form-native": "^0.4.4"
+    "tcomb-form-native": "^0.5.0"
   },
   "peerDependencies": {
-    "react-native": ">=0.13.2"
+    "react-native": ">=0.25.0"
   }
 }
